@@ -1,0 +1,6 @@
+{
+    "runArgs": [
+        "--network=bridge",
+        "--mac-address=12:34:56:78:9a:bc"
+    ]
+}
